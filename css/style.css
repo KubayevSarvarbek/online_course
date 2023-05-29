@@ -128,3 +128,9 @@ body{
 	color: #F0F0F0;
 	padding-top: 15px;
 }
+
+/* Compiler section */
+.compiler{
+	width: 76%;
+	margin-left: 21%;
+}
